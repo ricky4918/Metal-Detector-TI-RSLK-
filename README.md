@@ -1,6 +1,9 @@
 # Metal-Detector(TI-RSLK) #
 Senior Project(Spring and Summer 2020) at San Jose State University
 
+<img width="334" alt="Screen Shot 2020-08-25 at 10 00 22 PM" src="https://user-images.githubusercontent.com/22780537/91257283-58055100-e71e-11ea-9cd2-356dcb331639.png">
+
+
 
 ## PURPOSE ##
 
